@@ -45,7 +45,7 @@ O objetivo do projeto é criar um **sistema de temporização de LEDs** em respo
 | **LED Azul**     | 11   |
 | **LED Vermelho** | 12   |
 | **LED Verde**    | 13   |
-| **Botão**        | 6    |
+| **Botão**        | 5    |
 
 **Nota:** Para o experimento na **BitDogLab**, os LEDs estão nas portas **GPIO 11, 12 e 13**, e o botão está na **GPIO 5**.
 
